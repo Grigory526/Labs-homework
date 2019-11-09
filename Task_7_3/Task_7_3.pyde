@@ -1,5 +1,5 @@
 def setup():
-    size(500, 500)
+    size(500,500)
     smooth()
     background(0)
     strokeWeight(1)

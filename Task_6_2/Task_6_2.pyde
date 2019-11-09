@@ -1,4 +1,4 @@
-def setup():
+def setup(): 
     size(500, 500)
     smooth()
     background(255)

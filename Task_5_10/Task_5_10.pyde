@@ -1,4 +1,4 @@
-def setup (): 
+def setup ():  
     size(300, 300)
     smooth()
     strokeWeight(30)

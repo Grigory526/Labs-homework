@@ -1,5 +1,5 @@
 centerX = 0
-centerY = 0
+centerY = 0 
 angle = 0
 fsize  = 0
 weight = 0

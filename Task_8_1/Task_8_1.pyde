@@ -4,7 +4,7 @@ class FunnyRect():
         self.cx = x
         self.cy = y
 
-    def setSize(self,size):
+    def setSize(self,size): 
         self.size = size
 
     def render(self):

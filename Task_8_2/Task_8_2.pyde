@@ -1,4 +1,4 @@
-class FunnyRect():
+class FunnyRect(): 
 
     def setCenter(self, x,y):
         self.cx = x

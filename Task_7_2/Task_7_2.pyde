@@ -1,5 +1,5 @@
 1-ая вариация
-
+ 
 def setup():
     size(500, 500)
     smooth()
